@@ -1,3 +1,6 @@
 [submodule "student-proj"]
 	path = student-proj
 	url = https://github.com/noumanalisyed/student-proj.git
+[submodule "point-project"]
+	path = point-project
+	url = https://github.com/noumanalisyed/point-project.git
